@@ -1,6 +1,5 @@
-# KS04-kelompok4-finalProject1
 
-Aplikasi Reflection yang dimana aplikasi ini digunakan untuk mencatat dan mengukur target-target pencapaian seseorang.
+Aplikasi Reflection API yang dimana aplikasi ini digunakan untuk mencatat dan mengukur target-target pencapaian seseorang.
 
 # Installation
 
